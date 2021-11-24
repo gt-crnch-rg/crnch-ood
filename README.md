@@ -17,7 +17,7 @@ This is our main repository for the CRNCH Rogues Gallery implementation of Open 
 ## Sub-Module Repositories
 Each repository contains additional 
 * [Batch Connect - OSC Jupyter](https://github.com/gt-crnch-rg/bc_osc_jupyter) - Forked version of the OSC Jupyter batch process repo with updated config files for our setup.
-* [Open OnDemand Configuration](https://github.com/gt-crnch-rg/crnch_ood_config) - Includes general setup configs and template configuration files.
+* [Open OnDemand Configuration](https://github.com/gt-crnch-rg/crnch-ood-config) - Includes general setup configs and template configuration files.
 * [CRNCH Notebook Examples]() - Different example notebooks that users can either pick up and use independentantly or that they can launch using templates with OOD.
 
 ## Future Work
