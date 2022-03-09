@@ -27,4 +27,4 @@ Each repository contains additional information on our setup.
 * We are looking to extend this interface for other types of nodes including our FPGA platforms (Vitis, Quartus, OneAPI), and our local neuromorphic hardware platform (Scilab/XCos and related scripts). 
 
 ## References
-* IWAHPCE 2022 Presentation by Aaron Jezghani on using OpenOn Demand with A64FX.
+* [IWAHPCE 2022 Presentation by Aaron Jezghani on using OpenOn Demand with A64FX](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2022/jezghani_et_al_onboarding_users_a64fx_ood_presentation_IWAHPCE22.pdf)
